@@ -3,8 +3,8 @@
  * @author Michael Denissov
  * @author your name
  * @brief 
- * @version 0.1
- * @date 2021-01-22
+ * @version 0.2
+ * @date 2021-01-25
  * 
  * @copyright Copyright (c) 2021
  * 
@@ -28,11 +28,11 @@ void Drive::driveMotors(int power, int runCount) {
 	
 }
 
-void Drive::turnMotors() {
+void Drive::turnMotors(int power) {
 	
 }
 
-void Drive::turnMotors() {
+void Drive::turnMotors(int power, int runCount) {
 	
 }
 
