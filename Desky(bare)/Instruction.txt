@@ -1,0 +1,6 @@
+Your job is to create a class Drive that will have the following public methods:
+- A constructor that will 
+- A method to run the motors
+- A method that will update the motor speed and drive forwards or backwards(depending on speed)
+- A method that is the same as above but to run for x amount of ticks
+- A method that will update the motor speed and drive forwards or backwards(depending on speed)
